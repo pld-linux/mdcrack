@@ -15,7 +15,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 MDcrack - bruteforce MD4/MD5/NTLM1 hashes.
 
 %description -l pl
-MDcrack - brualne ³amanie skrótów MD4/MD5/NTLM1.
+MDcrack - brutalne ³amanie skrótów MD4/MD5/NTLM1.
 
 %prep
 %setup -q
