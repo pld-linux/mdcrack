@@ -6,6 +6,7 @@ Release:	1
 License:	?
 Group:		Applications
 Source0:	http://membres.lycos.fr/mdcrack/download/%{name}-%{version}.tar.gz
+# Source0-md5:	53d23b73bb48a3e106b8ce748d6b2bb8
 URL:		http://mdcrack.multimania.com/
 BuildRequires:	ncurses-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
