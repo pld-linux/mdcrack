@@ -22,7 +22,7 @@ MDcrack - brutalne ³amanie skrótów MD4/MD5/NTLM1.
 
 %build
 %{__make} \
-	CC=%{__cc} CFLAGS="%{rpmcflags} %{!?debug:-fomit-frame-pointer} -ffast-math -I/usr/include/ncurses" \
+	CC="%{__cc}" CFLAGS="%{rpmcflags} %{!?debug:-fomit-frame-pointer} -ffast-math -I/usr/include/ncurses" \
 %ifarch %{ix86} alpha
 	little
 %else
