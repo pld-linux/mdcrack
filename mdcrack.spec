@@ -1,5 +1,5 @@
 Summary:	MDcrack - bruteforce MD4/MD5/NTLM1 hashes
-Summary(pl):	MDcrack - brualne 砤manie skr髏體 MD4/MD5/NTLM1
+Summary(pl.UTF-8):   MDcrack - brualne 艂amanie skr贸t贸w MD4/MD5/NTLM1
 Name:		mdcrack
 Version:	1.2
 Release:	1
@@ -14,8 +14,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 MDcrack - bruteforce MD4/MD5/NTLM1 hashes.
 
-%description -l pl
-MDcrack - brutalne 砤manie skr髏體 MD4/MD5/NTLM1.
+%description -l pl.UTF-8
+MDcrack - brutalne 艂amanie skr贸t贸w MD4/MD5/NTLM1.
 
 %prep
 %setup -q
