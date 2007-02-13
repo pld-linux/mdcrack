@@ -1,5 +1,5 @@
 Summary:	MDcrack - bruteforce MD4/MD5/NTLM1 hashes
-Summary(pl.UTF-8):   MDcrack - brualne łamanie skrótów MD4/MD5/NTLM1
+Summary(pl.UTF-8):	MDcrack - brualne łamanie skrótów MD4/MD5/NTLM1
 Name:		mdcrack
 Version:	1.2
 Release:	1
